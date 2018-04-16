@@ -1,20 +1,9 @@
-# gatsby-starter-deck
+# Getting started with google-drive-source slide deck
 
-[![deploys by netlify](https://img.shields.io/badge/deploys%20by-netlify-00c7b7.svg)](https://www.netlify.com)
-[![styled with prettier](https://img.shields.io/badge/styled_with-prettier-ff69b4.svg)](https://github.com/prettier/prettier)
+Run this slide deck at [gatsby-site-gds-slide-deck.rcrsv.com](https://gatsby-site-gds-slide-deck.rcrsv.com)
 
-Create presentations using Gatsby, React & Markdown. Inspired by Guillermo Rauch’s [deck on Next.js](https://deck.now.sh/).
+A step by step slide deck to using [google-drive-source](https://www.npmjs.com/package/google-drive-source) with [Gatsbyjs](https://www.gatsbyjs.org/).
 
-* [Demo](//gatsby-deck.netlify.com)
+On Github @ https://github.com/HyperSprite/gatsby-site-gds-slide-deck
 
-## Usage
-
-    $ gatsby new my-slides https://github.com/fabe/gatsby-starter-deck
-    $ cd my-slides
-    $ gatsby develop
-
-Then edit and extend your slides inside the `src/pages` directory. Navigate with the arrow keys.
-
-## Author
-
-* Fabian Schultz ([@fschultz\_](https://twitter.com/fschultz_))
+Built on: [gatsby-starter-deck](https://github.com/fabe/gatsby-starter-deck)
