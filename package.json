@@ -1,7 +1,7 @@
 {
   "name": "gatsby-site-gds-slide-deck",
   "description": "Getting started with google-drive-source slide deck",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "author": "Christopher Dunavan",
   "dependencies": {
     "babel-plugin-include": "^1.2.0",
